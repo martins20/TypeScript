@@ -1,4 +1,4 @@
-### :thinking: Types of TypeScript :thinking:
+<h1 align='center'> :thinking: Types of TypeScript :thinking: </h1>
 
 - **Number:** :smile: _All Numbers, no matter if is integers or floats._ :smile: <small> Example: 1, 5.3, -10</small>
 
