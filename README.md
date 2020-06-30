@@ -10,9 +10,15 @@
 
 - **bigint:** :smile: _For Bigint._ :smile:
 
-<h2 align='center'>:thinking: Generic Types of TypeScript :thinking:</h2>
+- **any:** :smile: _Basically it return any of that variable / function, and that means you forgot or you have do something wrong on types annotations and typescript don't show errors in this type._ :smile:
 
-<h4 align="center">basically are Arrays and Objects has to show what is type of your childrens using "<>".</h4>
+- **void:** :smile: _this type return nothing._ :smile:
+
+<div align='center'>
+    <h2 align='center'>:thinking: Generic Types of TypeScript :thinking:</h2>
+    <b align="center">basically are Arrays and Objects has to show what is type of your childrens using "<>".</b>
+
+</div>
 
 - **Array:** :smile: _All Numbers, no matter if is integers or floats._ :smile: <small> Example: 1, 5.3, -10</small>
 
