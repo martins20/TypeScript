@@ -6,4 +6,4 @@
 
 - **Boolean:** :smile: _Just true or false values._ :smile:
 
-<h3 align='center'> :monocle_face: Let's see how it works on the code <a href='./src/types.ts'>here :monocle_face: </a></h3>
+<h3 align='center'> :monocle_face: Let's see how it works on the code. :monocle_face: /h3>
