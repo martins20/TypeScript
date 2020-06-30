@@ -20,6 +20,4 @@
 
 </div>
 
-- **Array:** :smile: _All Numbers, no matter if is integers or floats._ :smile: <small> Example: 1, 5.3, -10</small>
-
-<h3 align='center'> :monocle_face: Let's see how it works on the code. :monocle_face: /h3>
+<h3 align='center'> :monocle_face: Let's see how it works on the code. :monocle_face: </h3>
