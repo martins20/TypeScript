@@ -6,4 +6,18 @@
 
 - **Boolean:** :smile: _Just true or false values._ :smile:
 
-<h3 align='center'> :monocle_face: Let's see how it works on the code. :monocle_face: /h3>
+- **symbol:** :smile: _For Symbols._ :smile:
+
+- **bigint:** :smile: _For Bigint._ :smile:
+
+- **any:** :smile: _Basically it return any of that variable / function, and that means you forgot or you have do something wrong on types annotations and typescript don't show errors in this type._ :smile:
+
+- **void:** :smile: _this type return nothing._ :smile:
+
+<div align='center'>
+    <h2 align='center'>:thinking: Generic Types of TypeScript :thinking:</h2>
+    <b align="center">basically are Arrays and Objects has to show what is type of your childrens using "<>".</b>
+
+</div>
+
+<h3 align='center'> :monocle_face: Let's see how it works on the code. :monocle_face: </h3>
